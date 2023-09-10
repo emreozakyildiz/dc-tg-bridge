@@ -1,0 +1,14 @@
+{
+  "name": "dc-tg-bridge",
+  "version": "1.0.0",
+  "description": "Bridge between a Discord channel and a Telegram group.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Emre Özakyıldız",
+  "license": "ISC",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.61.0"
+  }
+}
