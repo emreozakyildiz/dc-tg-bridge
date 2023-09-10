@@ -9,6 +9,7 @@
   "author": "Emre Özakyıldız",
   "license": "ISC",
   "dependencies": {
+    "discord.js": "^14.13.0",
     "node-telegram-bot-api": "^0.61.0"
   }
 }
